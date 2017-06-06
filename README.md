@@ -1,2 +1,5 @@
 # fortunes-ru-typo
-Fortunes Russian Typography
+
+Фортунки с типографскими символами и буквой «Ё»
+
+- genious
